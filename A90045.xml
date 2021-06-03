@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The New yeares wonder. Being a most cernaine [sic] and true relation of the disturbed inhabitants of Kenton, and other neighbouring villages neere unto Edge-Hil, where the great battaile betwixt the kings army, and the Parliaments forces was fought. In which plea is heard &amp; seene fearfull and strange apparitions of spirits as sounds of drums, trumpets, with the discharging of canons muskies, carbines pettronels, to the terrour and amazement, of all the fearfull hearers and behoulders. Certified under the hands of William Wood, Esquier, and Iustice for the peace in the said countie, Samuel Marshall, preacher of Gods word in Keynton, and other persons of qualitie.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90045</idno><idno type="EEBO-CITATION">99859220</idno>
+  <idno type="VID">155694</idno>
+  <idno type="EEBO-PROQUEST">2240868496</idno>
+  
+            <idno type="STC">Wing N821</idno>
+            <idno type="STC">Thomason E86_23</idno>
+            <idno type="STC">ESTC R12123</idno>
+            <idno type="PROQUEST">99859220</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99859220e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90045)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155694)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 15:E86[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The New yeares wonder. Being a most cernaine [sic] and true relation of the disturbed inhabitants of Kenton, and other neighbouring villages neere unto Edge-Hil, where the great battaile betwixt the kings army, and the Parliaments forces was fought. In which plea is heard &amp; seene fearfull and strange apparitions of spirits as sounds of drums, trumpets, with the discharging of canons muskies, carbines pettronels, to the terrour and amazement, of all the fearfull hearers and behoulders. Certified under the hands of William Wood, Esquier, and Iustice for the peace in the said countie, Samuel Marshall, preacher of Gods word in Keynton, and other persons of qualitie.</title>
+               </titleStmt>
+               <extent>8 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Ellit, lodger neere the old Rose in Thames-street, who was an eye witnesse unto this.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>B.M. gives imprint date as [1642].</note>
+                  <note>Annotation on Thomason copy: "Jan. 27 1642".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Marshall, Samuel, --  Preacher of Gods word in Keinton.</term>
+               <term type="personal_name">Wood, William, --  Justice for the peace.</term>
+               <term type="topical_term">Apparitions --  Early works to 1800.</term>
+               <term type="geographic_name">Keinton (Northamptonshire) --  History, Military.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155694:1"/>
+            <pb facs="tcp:155694:1"/>
+            <p>THE NEW YEARES WONDER.</p>
+            <p>BEING A most cernaine and true Relation of the disturbed inhabitants of <hi>Kenton▪</hi>
+            </p>
+            <p>And other neighbouring villages neere unto <hi>Edge-Hil,</hi> where the great battaile betwixt the kings army, and the Parliaments forces was fought.</p>
+            <p>In which place is heard &amp; seene fearfull and strange apparitions of spirits as sounds of drums, trumpets, with the discharging of Canons Muskies, Car<g ref="char:EOLhyphen"/>bines pettronels, to the terrour and amaze<g ref="char:EOLhyphen"/>ment, of all the fearfull hearers and behoulders.</p>
+            <p>Certified under the hands of <hi>William Wood,</hi> Esquier, and Iustice for the <hi>Peace</hi> in the said Countie, <hi>Samuel Marshall,</hi> Preacher of Gods Wotd in <hi>Keynton,</hi> and other persons of qualitie.</p>
+            <p>Printed for Robert Ellit, lodger neere the old Rose in Thames-street, who was an eye witnesse unto this.</p>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:155694:2"/>
+            <p>
+               <figure>
+                  <figDesc>woodcut of musicians</figDesc>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:155694:2"/>
+            <head>THE NEW YEARES WONDER. BEING A most certain and true Relation, of the disturbed inhabitance of <hi>Kenton,</hi> and other neighboring villages neere <hi>Edg-Hill.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">N</seg>OT altogether disa<g ref="char:EOLhyphen"/>lowing of old folkes similys and saying that winters nights, thunder presageth en<g ref="char:EOLhyphen"/>ents of sumars strange wonders, which is greatly to be feard &amp; doubted if it begin be<g ref="char:EOLhyphen"/>fore sumar and vshers in the new yeare a<g ref="char:EOLhyphen"/>moungst us with such care terour and strange eye
+<pb n="4" facs="tcp:155694:3"/> optick apearance, as is by divers affirmed and related.</p>
+            <p>To which auoydance therefo<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, wee <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> every hopefull and beleeing christian to put on new obedi<g ref="char:EOLhyphen"/>ence vnto Heaven, and begin with the new yeare, a newnesse of life &amp; conuersation, with the endeur of continuance till the nihgt of our death comes.</p>
+            <p>With love feare &amp; obedience contineu in prayers to Almighty God, that he would be pleased to call back his destroying Angell from amongst us, and with the hand of his mercy sheath up the sword of his venganr, which his wrath by our multiplying sinns caus'd him draw against us, unto our feares and terours.</p>
+            <p>Still apearing a prodigious meteor or the fearfull head of this distracted Kingdome, and that this little Ile that was but late the admiration of lergar Christendme, for selfe accomodation and comerce for plenty and for every thing besides, with such a largnes of abundancy, that it almost needeth noe affinity with any neighb<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oring nation but its owne.</p>
+            <p>And now to see the change times heere hath made, and with it made us a laghter to the world to see our selues divided against our selves, doing ourselues that ill, which forain nations would but could not doe.</p>
+            <p>Which Heaven of his mercy grant a period that both the offended sides no more may sheath their wraths in one another, but be freinds, and <gap reason="illegible" resp="#murp" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ndish palmes insted of polaxes and that these <gap reason="illegible" resp="#murp" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>pa<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tion <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> am entring in Relation of, beget no farther Sumer
+<pb n="5" facs="tcp:155694:3"/> feare amoungst us.</p>
+            <p>As famine from euasion and vtter reuine that may enter in that gap we open our selves, and that no more such fields as <hi>Kenton,</hi> may be fought nor <hi>Edge-Hill</hi> sharpened to cut us more.</p>
+            <p>Whose troubles peete of earth plastred with En<g ref="char:EOLhyphen"/>glish goare and turned vnto a golgotha of bones is row become the plot of feare and horrour, whose earth now groning with the weight of lives whose last beds there were maid to sleepe upon, rests in</p>
+            <p>Whose dying grones a second time reviues breking the cauerns of the couring earth, and sends both feare and horour round about to terifie the living with dead soules, which first amasing wonder began his shadowing apparitons on the first of <hi>Ianuary,</hi> as <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eere as the relatours gest in the afternone betwixt three and foure of the clocke which was beheld by three Countrymen rideing a long the way in the likenesse of a Troope of horse posting vp to them with full speede, which caus'd the Countrymen to make a stop as fearfull of their euents▪</p>
+            <p>But coming neer unto them they of a sudaine sunke into the earth which turned to their more greater feare and amaizement then at there first aduancing.</p>
+            <p>But seeing some certain heards-men atending on cattell in the fields they rode up to them who rela<g ref="char:EOLhyphen"/>ted the same story which thay were eye witnisses
+<pb n="6" facs="tcp:155694:4"/> unto them the horsemen at the heatds-mens confer<g ref="char:EOLhyphen"/>mation of what themselves had sence ware so affri<g ref="char:EOLhyphen"/>ghted that they resouled to goe no farther then <hi>Ken<g ref="char:EOLhyphen"/>ton</hi> that night, where the on being glad of eithers human sosiety a companyes each other.</p>
+            <p>Where having taking vp there nightly habitation they began to relate it unto the Townesmen, the on confirming the words of the other both strangers and there townes dweling heardsmen, which soone was spred abroud but few or none that had belife un<g ref="char:EOLhyphen"/>to't.</p>
+            <p>On the morning the strangers departed &amp; thouhgt al the towne heard the relation of it, yet they made slight of it, this passed on till the forth of <hi>Ianuary</hi> nothing more heard or seene, which made the poore heardsmen the more derided for it</p>
+            <p>But the forth of <hi>Ianuary</hi> being come many of the towne went to the heardsmen grased there cattell, ieering the poore men, when should they heard more wowders from them</p>
+            <p>But the day being spent, and all the Towne at rest within there beds, about the midle season of the night, that which apeard to them rediculus, gave them a Testimony of their owne belife.</p>
+            <p>For why the dolfull and the hydious groanes of dying men were heard crying revenge and some a<g ref="char:EOLhyphen"/>gaine to ease them of their paine by friendly killing them, this waked many in the towne, and sent they trembling agues in there beds,</p>
+            <pb n="7" facs="tcp:155694:4"/>
+            <p>But their to amplifie the noyse of Drumes and Trumpets sounded a sudaine alarum as if an enimye had entred in their towne to put them to a sudaine exicution and plunder all their estates.</p>
+            <p>Some hid themselves in corners, some over-head and eares lay swearing and halfe smothered in their beds, and some of better courage looke through the winddowes where they to there apearing visibly saw armed horseman riding one againe the other and so vanisht all.</p>
+            <p>Many women feare made them miscary, and the stoutest hearted man amoungst them all could not denye but that then he feared death.</p>
+            <p>Next night they set strong watch every where and from there niehbouring townes gathered more assi<g ref="char:EOLhyphen"/>stance the crosse heyway and every place besides was strongly warded neither would women or children that were able keepe either house or beds.</p>
+            <p>But they expected hover of twelue being come, Drumes and Trumpets gave againe to sound alarum to fight and all the spirit horse and foot appeared and stood in battleray, the foot againe the foot and horse against the horse discherging of M. peetternell and Carbines the one againe the other, falling to the ground on either side apace, and Ordinance playing on against the other as plainely visable to the be<g ref="char:EOLhyphen"/>houlers view as if the reall action had bin there.</p>
+            <p>All night it lasted in this hidiour maner, but at the break of day all as they formarly in the twinkling
+<pb n="8" facs="tcp:155694:5"/> of an eye did vanish.</p>
+            <p>But since hath no more bin seene which caus'd the Inhabitants of <hi>Kenton</hi> to forsake their Towne and get new haitations for themselves.</p>
+            <p>But some learned men have since delivered their opininons, that there may be yet vnburied kackasses found, so dilligent search hath bin made, and found it so.</p>
+            <p>Which God of his mercy cease these warrs and blesse our Land with peace.</p>
+            <p>Mr. <hi>Marshall</hi> the Minister of <hi>Kenton,</hi> went to <hi>Ox<g ref="char:EOLhyphen"/>on</hi> to the King, and did informe him of the ap<g ref="char:EOLhyphen"/>paritions of all the aforesaid proceedings of the spirits.</p>
+            <p>THE King presently sent to <hi>Edge-Hill</hi> Co<g ref="char:EOLhyphen"/>lonell <hi>Lewis Kirke,</hi> Captaine <hi>Dudly,</hi> Captaine <hi>Winman,</hi> and three other Gentelmen of worth who heard of this sad fearful and hidious sight wihch Mr. <hi>Marshall,</hi> related to his Maiesty and then departed wonderous fearfull amaized and affrighted, &amp; saw divers to their apperance that were there slaine as Sir <hi>Edmund Varney,</hi> with divers others: Thus have you heard the sad relation of the apperance of these vgly fiends Vpon which was made oath to his Maiesty, which the Lord in His mercy in<g ref="char:EOLhyphen"/>lighten his Maiestys heart, that those eveill coun<g ref="char:EOLhyphen"/>celares wh<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ich are about him may be put ever far from him and that wee may have peace. Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
